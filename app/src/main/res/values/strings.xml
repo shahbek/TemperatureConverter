@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab 2</string>
+    <string name="temperature">Temperature</string>
+    <string name="converter">Converter</string>
+    <string name="enter_temperature">Enter temperature</string>
+    <string name="_0_0">0.0</string>
+    <string name="celcius_to_fahrenheit">Celcius to Fahrenheit</string>
+    <string name="fahrenheit_to_celcius">Fahrenheit to Celcius</string>
+    <string name="convert">CONVERT</string>
+    <string name="reset">RESET</string>
+</resources>
